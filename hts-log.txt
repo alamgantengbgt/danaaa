@@ -1,0 +1,33 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 06 Jan 2025 06:53:34 at https://www.dana.id/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.dana.id/ -O1 "C:\My Web Sites\danaaa" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+06:54:06	Error: 	"Not Found" (404) at link https://www.dana.id/ak.m (from https://www.dana.id/)
+06:54:06	Error: 	"Not Found" (404) at link https://www.dana.id/ak.t (from https://www.dana.id/)
+06:55:26	Error: 	"Not Found" (404) at link https://www.dana.id/404 (from https://www.dana.id/)
+06:55:29	Warning: 	link is probably looping, type unknown, aborting: https://www.dana.id/promo/gajian-hemat-di-dunia-games-cashback-sd-rp10100
+06:55:30	Warning: 	link is probably looping, type unknown, aborting: https://www.dana.id/promo/gajian-hemat-di-dunia-games-cashback-sd-rp10100
+06:55:30	Warning: 	link is probably looping, type unknown, aborting: https://www.dana.id/promo/gajian-hemat-di-dunia-games-cashback-sd-rp10100
+06:56:02	Error: 	"Not Found" (404) at link https://www.dana.id/webAssets/build/_assets/slick-EVLS6IWX.eot (from https://www.dana.id/webAssets/build/_assets/index-FIWDRNKZ.css)
+06:56:02	Error: 	"Not Found" (404) at link https://www.dana.id/webAssets/build/_assets/slick-EVLS6IWX.eot? (from https://www.dana.id/webAssets/build/_assets/index-FIWDRNKZ.css)
+06:56:02	Error: 	"Not Found" (404) at link https://www.dana.id/webAssets/build/_assets/slick-MU5EZO5G.woff (from https://www.dana.id/webAssets/build/_assets/index-FIWDRNKZ.css)
+06:56:02	Error: 	"Not Found" (404) at link https://www.dana.id/webAssets/build/_assets/slick-NKQ64RRA.ttf (from https://www.dana.id/webAssets/build/_assets/index-FIWDRNKZ.css)
+06:56:02	Error: 	"Not Found" (404) at link https://www.dana.id/personal/ak.m (from https://www.dana.id/personal/digital-wallet)
+06:56:02	Error: 	"Not Found" (404) at link https://www.dana.id/personal/ak.t (from https://www.dana.id/personal/digital-wallet)
+06:56:06	Error: 	"Not Found" (404) at link https://www.dana.id/business/ak.m (from https://www.dana.id/business/payment-gateway)
+06:56:06	Error: 	"Not Found" (404) at link https://www.dana.id/business/ak.t (from https://www.dana.id/business/payment-gateway)
+06:56:07	Error: 	"Not Found" (404) at link https://www.dana.id/business/payment-gateway/ak.m (from https://www.dana.id/business/payment-gateway/calculator)
+06:56:07	Error: 	"Not Found" (404) at link https://www.dana.id/business/payment-gateway/ak.t (from https://www.dana.id/business/payment-gateway/calculator)
+06:56:16	Error: 	"Not Found" (404) at link https://www.dana.id/corporate/ak.m (from https://www.dana.id/corporate/)
+06:56:16	Error: 	"Not Found" (404) at link https://www.dana.id/corporate/ak.t (from https://www.dana.id/corporate/)
+06:56:18	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.dana.id/promo)
+06:56:39	Error: 	"Not Found" (404) at link https://www.dana.id/www.dana.id (from https://www.dana.id/policy)
+06:56:41	Error: 	"Not Found" (404) at link https://www.dana.id/promo/ak.m (from https://www.dana.id/promo/pertama-kali-tagihan-pdam-kota-surabaya-di-dana-diskon-rp5ribu)
+06:56:41	Error: 	"Not Found" (404) at link https://www.dana.id/promo/ak.t (from https://www.dana.id/promo/pertama-kali-tagihan-pdam-kota-surabaya-di-dana-diskon-rp5ribu)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 8 seconds : 526 links scanned, 506 files written (58905783 bytes overall) [51927840 bytes received at 276211 bytes/sec], 11421797 bytes transferred using HTTP compression in 316 files, ratio 23%, 24.8 requests per connection
+(19 errors, 3 warnings, 0 messages)
